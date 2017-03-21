@@ -1,0 +1,15 @@
+{
+	"name": "basic-node-server",
+	"version": "0.0.5",
+	"description": "Basic node server app",
+	"main": "server.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
+}
